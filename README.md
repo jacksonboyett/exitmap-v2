@@ -1,7 +1,5 @@
 # **ExitMap**
 
-[https://www.exit-map.com/](url)
-
 ### Created by [Luke Boyett](https://lboyett.com) and [Jackson Boyett](https://jacksonboyett.com)
 
 1. [Introduction](#introduction)
