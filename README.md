@@ -1,6 +1,6 @@
 # **ExitMap**
 
-[exit-map.com](url)
+[https://www.exit-map.com/](url)
 
 ### Created by [Luke Boyett](https://lboyett.com) and [Jackson Boyett](https://jacksonboyett.com)
 
@@ -16,8 +16,8 @@
 
 ## Introduction
 
-Jackson and I began our BASE jumping journey in 2017. Since then, we've accumulated roughly 1000 BASE jumps between the two of us. Dissatisfied with our current careers, we started The Odin Project in October 2022 hoping to transition into the world of web development.
-After completing The Odin Project, Jackson and I wanted to continue improving our skills, especially regarding backend development. Originally, ExitMap was supposed to be released to only a small group of friends as a way to share knowledge of different BASE jumping locations. Throughout development, it evolved into a full scale application incorporating different frontend and backend systems, complete with user management.
+Luke and I began our BASE jumping journey in 2017. Since then, we've accumulated roughly 1000 BASE jumps between the two of us. Dissatisfied with our current careers, we started The Odin Project in October 2022 hoping to transition into the world of web development.
+After completing The Odin Project, Luke and I wanted to continue improving our skills, especially regarding backend development. Originally, ExitMap was supposed to be released to only a small group of friends as a way to share knowledge of different BASE jumping locations. Throughout development, it evolved into a full scale application incorporating different frontend and backend systems, complete with user management.
 
 ## Stack
 
@@ -27,7 +27,7 @@ We chose to write ExitMap entirely in TypeScript. Adding type safety among other
 
 ### React / Vite
 
-ExitMap is built on React/Vite for the frontend and Node/Express for the backend. Since ExitMap began as a portfolio piece, Jackson and I wanted to use this as an opportunity to build a full-stack application with React. We used Vite for hot module replacement and ability to speed up development times.
+ExitMap is built on React/Vite for the frontend and Node/Express for the backend. Since ExitMap began as a portfolio piece, Luke and I wanted to use this as an opportunity to build a full-stack application with React. We used Vite for hot module replacement and ability to speed up development times.
 
 ### NodeJS / Express
 
